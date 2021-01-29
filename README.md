@@ -5,4 +5,4 @@
 
 ## 목차
 ### JavaScript
-<a href="./JavaScript/2021_01_28.md">async vs defer, use strict</a>
+- <a href="./JavaScript/2021_01_28.md">async vs defer, use strict</a>
