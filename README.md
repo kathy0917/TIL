@@ -7,4 +7,4 @@
 ### JavaScript
 - <a href="./JavaScript/2021_01_28.md">async vs defer, use strict</a>
 - <a href="./JavaScript/2021_01_29.md">data types</a>
-- <a href="./JavaScript/2021_01_31.md">Callback</a>
+- <a href="./JavaScript/2021_01_31.md">async> callback</a>
