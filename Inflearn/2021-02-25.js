@@ -12,7 +12,6 @@
                     if(sum>m) return;
                     if(L > answer) return;
                     if(sum === m){
-                        console.log(`L: ${L} sum: ${sum}`)
                         answer = Math.min(answer, L);
                     }          
                     else{
