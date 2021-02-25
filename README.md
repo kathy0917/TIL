@@ -11,6 +11,5 @@
 - <a href="./JavaScript/2021_02_02.md">async> Promise</a>
 - <a href="./JavaScript/2021_02_03.md">async> async, await</a>
 - <a href="./JavaScript/2021_02_04.md">ES6, ES11</a>
-- <a href="./JavaScript/2021_02_25.md">class vs object, 객체지향 언어 클래스
-</a>
+- <a href="./JavaScript/2021_02_25.md">class vs object, 객체지향 언어 클래스</a>
 
