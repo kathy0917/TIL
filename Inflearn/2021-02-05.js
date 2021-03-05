@@ -1,11 +1,4 @@
-<html>
-    <head>
-        <meta charset="UTF-8">
-        <title>[ps]2021-02-05</title>
-    </head>
-    <body>
-        <script>
-            function solution(n, m){
+function solution(n, m){
                 let answer=[];
                 let tmp=Array.from({length:m}, ()=>0);
                 function DFS(L){
@@ -25,6 +18,3 @@
             }
 
             console.log(solution(3, 2));
-        </script>
-    </body>
-</html>
