@@ -1,11 +1,4 @@
-<html>
-    <head>
-        <meta charset="UTF-8">
-        <title>DFS</title>
-    </head>
-    <body>
-        <script>
-            function solution(n, r){         
+function solution(n, r){         
                 let answer=[];
                 let dy = Array.from(Array(35),()=>Array(35).fill(0));
                 function DFS(n, r){
@@ -20,6 +13,3 @@
             }
 
             console.log(solution(33, 19));
-        </script>
-    </body>
-</html>
