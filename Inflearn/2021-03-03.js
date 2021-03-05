@@ -1,11 +1,4 @@
-<html>
-    <head>
-        <meta charset="UTF-8">
-        <title>DFS</title>
-    </head>
-    <body>
-        <script>
-            function solution(n){         
+function solution(n){         
                 let answer;
                 function DFS(n){
                     if(n===1) return 1;
@@ -18,6 +11,3 @@
             }
 
             console.log(solution(5));
-        </script>
-    </body>
-</html>
