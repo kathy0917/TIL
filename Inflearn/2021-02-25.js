@@ -1,11 +1,4 @@
-<html>
-    <head>
-        <meta charset="UTF-8">
-        <title>section8-9</title>
-    </head>
-    <body>
-        <script>
-            function solution(m, arr){
+function solution(m, arr){
                 let answer=Number.MAX_SAFE_INTEGER;
                 let n=arr.length;
                 function DFS(L, sum){
@@ -26,6 +19,3 @@
 
             let arr=[1, 2, 5];
             console.log(solution(15, arr));
-        </script>
-    </body>
-</html>
