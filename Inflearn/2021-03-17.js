@@ -1,11 +1,4 @@
-<html>
-    <head>
-        <meta charset="UTF-8">
-        <title>출력결과</title>
-    </head>
-    <body>
-        <script>
-            function solution(s){
+function solution(s){
                 let answer="YES";
                 let LowerS = s.toLowerCase();
                 
@@ -22,7 +15,3 @@
             
             let str="goooG";
             console.log(solution(str));
-        </script>
-    </body>
-</html>
-
