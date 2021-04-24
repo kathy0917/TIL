@@ -119,7 +119,7 @@ SELECT ANIMAL_TYPE, IFNULL(NAME,'No name'), SEX_UPON_INTAKE
 FROM ANIMAL_INS
 ```
 
-15. 동명 동물 수 찾기(HAVING BY)
+15. 동명 동물 수 찾기(HAVING - GROUP BY에 조건을 붙이고 싶을 때 사용. GROUP BY의 WHERE절과 비슷)
 ```sql
 SELECT NAME, COUNT(*) AS count
 FROM ANIMAL_INS
